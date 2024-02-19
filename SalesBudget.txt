@@ -1,0 +1,26 @@
+Date	Budget
+Saturday, January 1, 2022	800000
+Tuesday, February 1, 2022	800000
+Tuesday, March 1, 2022	1000000
+Friday, April 1, 2022	1000000
+Sunday, May 1, 2022	1100000
+Wednesday, June 1, 2022	1100000
+Friday, July 1, 2022	1500000
+Monday, August 1, 2022	1500000
+Thursday, September 1, 2022	1500000
+Saturday, October 1, 2022	1500000
+Tuesday, November 1, 2022	1500000
+Thursday, December 1, 2022	2000000
+Sunday, January 1, 2023	800000
+Wednesday, February 1, 2023	800000
+Wednesday, March 1, 2023	1000000
+Saturday, April 1, 2023	1000000
+Monday, May 1, 2023	1100000
+Thursday, June 1, 2023	1100000
+Saturday, July 1, 2023	1500000
+Tuesday, August 1, 2023	1500000
+Friday, September 1, 2023	1500000
+Sunday, October 1, 2023	1500000
+Wednesday, November 1, 2023	1500000
+Friday, December 1, 2023	2000000
+Monday, January 1, 2024	800000
